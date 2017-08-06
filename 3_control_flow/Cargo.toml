@@ -1,0 +1,5 @@
+[package]
+
+name = "temp_converter"
+version = "1.0.0"
+authors = [ "Alexis La Porte something@gmail.com" ]
