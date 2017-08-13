@@ -108,6 +108,7 @@ version.texi
 .cargo
 !src/vendor/**
 /src/target/
+*/target/*
 /target
 .cargo
 /config.stamp
