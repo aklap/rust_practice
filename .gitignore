@@ -108,3 +108,17 @@ version.texi
 .cargo
 !src/vendor/**
 /src/target/
+/target
+.cargo
+/config.stamp
+/Makefile
+/config.mk
+src/doc/build
+src/etc/*.pyc
+src/registry/target
+src/registry/Cargo.lock
+rustc
+__pycache__
+.idea/
+*.iml
+*.swp
