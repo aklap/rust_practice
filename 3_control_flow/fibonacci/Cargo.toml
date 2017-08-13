@@ -1,0 +1,5 @@
+["package"]
+
+name = "fibonacci"
+version = "1.0.0"
+authors = [ "Alexis La Porte *gmail.com" ]
