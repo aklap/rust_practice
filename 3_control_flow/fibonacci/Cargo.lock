@@ -1,4 +1,2 @@
-[root]
-name = "fibonacci"
-version = "1.0.0"
+[root] name = "fibonacci" version = "1.0.0"
 
